@@ -1,0 +1,9 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: SampleFlowProject
+  gitServerName: KritikasGitHubAccount
+  gitUrl: https://github.com/KitNabber/SampleFlowProject
+  gitUsername: KitNabber
+  gitBranch: main
