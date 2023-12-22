@@ -7,3 +7,8 @@ packages:
   gitUrl: https://github.com/KitNabber/SampleFlowProject
   gitUsername: KitNabber
   gitBranch: main
+services:
+- serviceName: project.sampleflow.integrations:SampleFlow
+  packages:
+  - name: SampleFlowProject
+    version: "1.0"
